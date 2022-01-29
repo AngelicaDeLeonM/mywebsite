@@ -10,6 +10,17 @@ let students = [
     },
     career: "Information technology, software development cross-platform"
 }
+{
+    lname:"Mendiola",
+    name:"Janet",
+    age:21,
+    birthday:{
+        year:2000,
+        month:06,
+        day:09
+    },
+    career: "Information technology, software development cross-platform"
+}
 ]
 
 let table = document.getElementsByTagName("table")[0];
