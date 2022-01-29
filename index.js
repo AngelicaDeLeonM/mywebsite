@@ -8,7 +8,7 @@ let students = [
         month:06,
         day:09
     },
-    career: "Information technology, software development"
+    career: "Information technology, software development cross-platform"
 }
 ]
 
