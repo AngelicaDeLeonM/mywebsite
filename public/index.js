@@ -9,7 +9,7 @@ let students = [
         day:09
     },
     career: "Information technology, software development cross-platform"
-}
+},
 {
     lname:"Mendiola",
     name:"Janet",
