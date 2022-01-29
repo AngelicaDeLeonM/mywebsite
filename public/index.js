@@ -12,12 +12,23 @@ let students = [
 },
 {
     lname:"Mendiola",
-    name:"Janet",
+    name:"Janeth",
     age:21,
     birthday:{
         year:2000,
         month:06,
         day:09
+    },
+    career: "Information technology, software development cross-platform"
+},
+{
+    lname:"De leon",
+    name:"Oscar",
+    age:29,
+    birthday:{
+        year:1992,
+        month:10,
+        day:28
     },
     career: "Information technology, software development cross-platform"
 }
